@@ -1,0 +1,2 @@
+PyQt5==5.15.9
+huggingface-hub==0.19.4
